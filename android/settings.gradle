@@ -1,0 +1,3 @@
+rootProject.name = 'gfinder'
+
+include ':app'
