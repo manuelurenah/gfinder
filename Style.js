@@ -19,15 +19,16 @@ const Style = StyleSheet.create({
         alignSelf: 'center',
     },
     flowRight: {
-        flexDirection: 'row',
         alignItems: 'center',
         alignSelf: 'stretch',
+        flexDirection: 'row',
     },
     image: {
         width: 171,
         height: 171,
     },
     rootContainer: {
+        backgroundColor: '#34495E',
         flex: 1,
     },
     searchContainer: {
